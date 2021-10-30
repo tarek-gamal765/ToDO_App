@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:get/get_utils/src/extensions/context_extensions.dart';
 import 'package:todo/ui/size_config.dart';
 
 import '../theme.dart';
